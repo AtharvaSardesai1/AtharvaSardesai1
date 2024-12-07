@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Atharva Sardesai</h1>
-<h3 align="center">I am crafting the future, one commit at a time.</h3>
+<h3 align="center">Crafting the future, one commit at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
